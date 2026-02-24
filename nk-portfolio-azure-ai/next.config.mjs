@@ -4,7 +4,7 @@ import path from "path";
 
 const nextConfig = {
     outputFileTracingRoot: path.resolve(
-    "C:/Users/naren/OneDrive/Desktop/Narendrakorada-repo/nkorada21-repo/nk-portfolio-azure-ai"
+    "C:/Users/naren/OneDrive/Desktop/Nk-Portfolio/Nk_Portfolio/nk-portfolio-azure-ai"
   ),
 };
 
