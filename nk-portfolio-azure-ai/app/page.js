@@ -84,7 +84,7 @@ export default function Home() {
                             <span>I’m passionate about AI and enjoy creating projects that show how intelligent systems can solve real-world problems.</span>
                         </p>
                         <div className="call-to-action">
-                            <a href="./Narendra_Korada_SWE.pdf" className="button black">
+                            <a href="./Narendra_Korada_SDE_Resume.pdf" className="button black">
                                 View Resume
                             </a>
                             <a href="mailto:narendrakorada472@gmail.com" className="button white">
@@ -268,7 +268,7 @@ export default function Home() {
                         To learn more about me and my background, you can utilize it to ask me questions. </p>
                     <p>You can also download my resume here if you want to take a look at it. I'm currently looking for new 
                         opportunities so if you have a project you think I'd be a good fit for, please get in touch! </p>
-                    <a href="./Narendra_Korada_SWE.pdf" className="button black">Download Resume</a>
+                    <a href="./Narendra_Korada_SDE_Resume.pdf" className="button black">Download Resume</a>
                 </div>
                 <div className="chat-box">
                     <div className="scroll-area">
