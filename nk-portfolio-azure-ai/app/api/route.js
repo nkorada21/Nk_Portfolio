@@ -81,67 +81,91 @@ export async function POST(req) {
 }
 
 const DATA_RESUME = `Narendra Korada
-Chicago, IL (Open to Relocate) | +1 (312) 880-8673 | narendrakorada472@gmail.com | /Narendra Korada | /NKPortfolio
++1 (312) 880-8673 | narendrakorada26@gmail.com | Chicago, IL | linkedin | portfolio | certification
 
-
-PROFESSIONAL SUMMARY
-Software Engineer with experience in backend development, API integration, and production-level web systems. Strong foundation in Java, SQL, and object-oriented programming, with hands-on experience working in Agile environments. Seeking full-time Software Engineer / Java Developer roles to build scalable, high-quality software. 
-
-
-TECHNICAL SKILLS
-Programming Languages: Java, SQL, C, JavaScript, Python
-Data Structures & Algorithms: Arrays, Strings, Linked List, Hash Maps, Stacks, Queues, Basic Recursion
-Backend & APIs: Spring Boot, RESTful API development, request/response handling, input validation, error handling, JSON
-Frontend Technologies: HTML, CSS, React (basic)
-Databases: MySQL, Oracle
-Low code / Enterprise Tools: PEGA PRPC (case management, workflows, report definitions)
-Tools & Version Control: Git, GitHub, Visual Studio, IntelliJ
-Software Engineering Fundamentals: Object-Oriented Programming (OOP), debugging, file handling, Agile/Scrum
-Quality & Testing: Functional testing, UI testing, bug tracking, production validation
-
+SUMMARY
+Software Engineer with experience developing scalable backend systems, full-stack applications, and AI-powered solutions. Skilled in Java,
+Python, JavaScript, REST APIs, React, Node.js, and SQL, with proven impact in improving performance 25%+ efficiency gains and user
+engagement 30% increase. Experienced in Agile development, testing, and system optimization, delivering reliable, high-quality software solutions.
 
 PROFESSIONAL EXPERIENCE
-Website QA Analyst Intern
-Oigetit – AI Fact Checker | Los Gatos, CA | Remote                                                                                                                   (Jul 2025 – Nov 2025)
-•	Performed functional and UI testing on a live AI-powered web platform used in production.
-•	Identified and documented 25+ critical UI and functional defects, contributing to approximately 30% improvement in platform stability after fixes
-•	Executed end-to-end testing on key modules including Fact-Checked Stories, AI features, Sustainability, and Video
-•	Collaborated closely with developers to validate fixes and reduce user-facing issues by 20%
+IT Development Intern, Community Action Scheme Africa (CASAF) | Cameroon
+Nov 2025 - Jan 2026
+Redesigned tutoring platform UI using user-centric design and AI-driven usability insights, improving accessibility and increasing user
+engagement by 30%, while streamlining navigation flows for faster content discovery.
+Developed dynamic frontend features using HTML, CSS, and JavaScript, optimizing rendering and form handling, increasing user interaction
+rates by 25% and improving page responsiveness across devices.
+Performed end-to-end testing and performance optimization, ensuring cross-browser compatibility and responsive design, reducing usability
+issues by 20% and improving overall platform reliability and user satisfaction.
 
-Software Engineer
-HCL Technologies | Chennai, India                                                                                                                                              (Aug 2022 – Jan 2024)
-•	Developed backend features using PEGA PRPC, Java, and REST APIs to automate enterprise billing workflows, reducing processing time by approximately 25%
-•	Built and maintained backend logic and UI components supporting large-scale case management systems 
-•	Designed and optimized PEGA Report Definitions to retrieve and present structured operational data for workflow tracking 
-•	Worked in Agile sprints to implement new features, troubleshoot defects, and resolve production issues to maintain system stability
+Software Engineer Intern, Oigetit – AI Fact Checker | Los Gatos, CA
+Jul 2025 - Nov 2025
+Conducted functional and UI testing on AI-powered platform, validating NLP model outputs and workflows, identifying 25+ defects,
+improving system accuracy and increasing platform stability by 30% across diverse user scenarios.
+Designed and executed end-to-end test cases across AI modules, fact-checking systems, and media features, ensuring seamless integration,
+consistent functionality, and reducing regression issues in production environments by 20%.
+Collaborated with cross-functional teams to validate fixes and enhancements, reducing user-facing defects by 20%, improving product quality,
+and accelerating release cycles through structured QA processes and continuous feedback loops.
+Developed and maintained automated test scenarios and validation workflows, improving test coverage and execution efficiency by 25%,
+ensuring reliable performance and consistent functionality across high-traffic production environments.
 
+Software Engineer, HCL Technologies | Chennai, India
+Aug 2022 - Jan 2024
+Engineered backend solutions using PEGA PRPC, Java, and REST APIs, automating billing workflows and reducing processing time by 25%,
+improving scalability and operational efficiency across enterprise systems.
+Developed scalable backend logic and UI components supporting case management systems, ensuring high availability, optimized
+performance, and seamless user experience across high-volume enterprise applications.
+Optimized PEGA Report Definitions to improve data retrieval efficiency and reporting accuracy, enabling faster decision-making and enhanced
+workflow visibility for stakeholders through structured data analysis techniques.
+Contributed to Agile sprint cycles, delivering features and resolving defects, improving release velocity and system stability through continuous
+integration, testing practices, and collaboration with cross-functional engineering teams.
+Diagnosed and resolved production issues using root cause analysis, reducing system downtime by 20%, enhancing application reliability, and
+ensuring consistent performance across large-scale enterprise environments.
+
+Software Engineer Intern, Cognizant | India
+Jan 2022 - Jul 2022
+Developed and enhanced HR management system “PRO_DNA” by building backend forms and data pipelines using PeopleSoft and SQL,
+improving data processing efficiency and supporting seamless employee data management workflows.
+Optimized complex SQL queries and database operations, improving data retrieval performance by 15%, reducing query execution time, and
+enhancing system responsiveness for high-volume HR transactions across enterprise applications.
+Participated in Agile ceremonies and collaborated with cross-functional teams to deliver features and resolve issues, improving sprint velocity
+by 20% and ensuring timely delivery of high-quality software releases.
 
 PROJECTS
 Full-Stack AI Web Application – Fluxora AI
-React, Node.js, PostgreSQL 
-•	Built a full-stack AI-powered web Application enabling users to generate content, images, and resume insights
-•	Designed frontend components using React and implemented backend services to handle user requests and data storage
-•	Integrated authentication and premium feature access to support multiple user roles
-•	Ensured smooth data flow between frontend, backend, and database layers for a reliable user experience
+Developed a full-stack AI-powered web application enabling users to generate text, images, and resume insights, enhancing engagement and
+productivity through intelligent automation and personalized content generation capabilities.
+Engineered responsive React frontend and scalable Node.js/Express backend with MongoDB, implementing secure authentication and role
+based access control for efficient user management and secure data handling.
+Optimized data flow using RESTful APIs and WebSocket integration, ensuring real-time responsiveness and seamless system communication,
+improving overall user experience and increasing user satisfaction ratings by 30%.
 
-ToDoRails Elite – Enterprise Backend Application
-Java 17, Spring Boot, Spring Security, MySQL, Junit, MockMvc, Git
-•	Developed a secure RESTful backend application using Java 17 and Spring Boot, implementing JWT-based authentication, role-based access control (RBAC), and BCrypt password encryption
-•	Designed a layered architecture (Controller-Service-Repository) following SOLID principles, and implemented input validation, global exception handling, SLF4J logging, and automated unit/integration testing to ensure production-level reliability and maintainability
+Enterprise Case Management & Workflow Automation System
+Developed a scalable case management system using Java, REST APIs, and SQL, automating workflow processes and reducing manual task
+handling time by 30% across enterprise operations.
+Engineered optimized database queries and data pipelines, improving data retrieval performance by 25% and ensuring efficient handling of
+high-volume transactional data.
+Integrated role-based access control and monitoring dashboards, improving system security, visibility, and operational efficiency, supporting
+real-time tracking of workflows and user activities.
 
+CERTIFICATIONS
+Java Masterclass 2025: 130+ Hours of Expert Lessons, Udemy
+Amazon Junior Software Developer Certificate, Coursera
+PEGA Certified System Architect (v8.4) & Senior System Architect (v8.6), UAP, Talent Sprint
 
 EDUCATION
-Master of Information Technology and Management                                                                                                                       GPA: 3.80
-Illinois Institute of Technology, Chicago, IL
-December 2025
+Illinois Institute Of Technology - Master of Information Technology And Management, Management Information Systems Jan 2024- Dec 2025
 
-Bachelor of Technology in Electronics and Communication Engineering                                                                              CGPA: 8.5 / 10
-Raghu Institute of Technology, India
-April 2022
-
-
- CERTIFICATIONS
-•	Amazon Junior Software Developer Certificate – Coursera
-•	PEGA Certified System Architect (v8.4) & Senior System Architect (v8.6) – UAP, Talent Sprint
+SKILLS
+Programming Languages : Java, Python, JavaScript, SQL, C
+Backend Development : Spring Boot, RESTful APIs, Microservices, API Integration, Request/Response Handling, Input Validation,
+Exception Handling
+Frontend Development : React.js, HTML5, CSS3, Responsive UI Design, DOM Manipulation
+Databases : MySQL, Oracle, MongoDB (NoSQL), Database Design, Query Optimization
+Enterprise & Low-Code Tools : PEGA PRPC (Case Management, Workflow Automation, Report Definitions)
+Software Engineering Concepts : Object-Oriented Programming (OOP), Data Structures & Algorithms, Design Patterns, SOLID Principles
+Testing & Quality Assurance : Functional Testing, UI Testing, End-to-End Testing, Bug Tracking, Test Case Design, Production Validation
+Tools & Technologies : Git, GitHub, IntelliJ IDEA, Visual Studio Code, Postman
+Development Methodologies : Agile, Scrum, CI/CD Fundamentals, Version Control
 
 `
